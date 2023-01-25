@@ -1,0 +1,6 @@
+- no inheritance
+- interfaces are dynamic
+- structs and funcs instead class and methods
+- visibility is according to the first letter of the attribute or method
+- concept of pointers 
+- concept of modules 

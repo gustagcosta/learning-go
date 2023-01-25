@@ -1,0 +1,7 @@
+- short operator := used for instance and set a value for a variable
+- reflect.Typeof used for see the type of a value
+- arrays and slices are the same thing but slices bring some abstractions to work with
+- & operator means the space in memory of a variable
+- a function can return multiple values
+- to ignore some return you can use _ operator
+- errors always are returned and must be handle as sum as possible using if ???
